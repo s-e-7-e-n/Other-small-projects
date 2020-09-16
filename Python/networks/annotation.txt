@@ -1,0 +1,1 @@
+I studied the work of neural networks. Here is a small library for working with the neural network, and the learning_.gif shows how the network was trained to approximate the function using a genetic algorithm.
